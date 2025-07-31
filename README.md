@@ -1,4 +1,4 @@
-# OpT-DeUS
+# OpT-DeUS (Progressive Depth Up-scaling via Optimal Transport)
 This is the source code for "Progressive Depth Up-scaling via Optimal Transport"
 
 ![image](Figure/Method.png)
