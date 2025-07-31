@@ -22,5 +22,5 @@ pytorch (decided by the HPC's cuda driver)
 
 # Note
 - For SFT, we use  `Alpaca-GPT4` from https://huggingface.co/datasets/vicgalle/alpaca-gpt4. Thus no script is provided.
-- For creating the expanded model using `LESA`, we directly use the implementation from https://github.com/yangyifei729/LESA.
-
+- For expanding the model using `LESA`, we use the implementation from https://github.com/yangyifei729/LESA.
+- `Model` contains code used for expanding LLaMA 3.1-8B. They can be can be easily adapted for other scales by changing the `index_mapping` and `num_hidden_layers`.
