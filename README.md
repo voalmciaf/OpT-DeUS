@@ -14,3 +14,12 @@ POT                      0.9.5
 pytorch (decided by the HPC's cuda driver)
 ```
 
+# Description
+- `Data.py` provides the sampling and preprocessing process for our Continual Pre-training data.
+- `Eval.sh` provides the shell script for evaluating the trained models.
+- `Model` directory contains the implementation of depth up-scaling baselines and our proposed Methods.
+
+# Note
+- For SFT, we use  `Alpaca-GPT4` from https://huggingface.co/datasets/vicgalle/alpaca-gpt4. Thus no scripts is provided.
+- For creating the expanded model using `LESA`, we direct use the implementation from https://github.com/yangyifei729/LESA.
+
