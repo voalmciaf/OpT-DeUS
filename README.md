@@ -1,5 +1,7 @@
 # OpT-DeUS
 This is the source code for "Progressive Depth Up-scaling via Optimal Transport"
+
+![image](Figure/Method.png)
 # Core packages and version
 ```text
 transformers             4.48.2
