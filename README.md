@@ -4,14 +4,14 @@ This is the source code for "Progressive Depth Up-scaling via Optimal Transport"
 ![image](Figure/Method.png)
 # Core packages and version
 ```text
-transformers             4.48.2  (For training with GPU)
-datasets                 3.6.0   (For preprocessing data)
-lm_eval                  0.4.2   (For evaluation)
-accelerate               1.3.0   (For multi-Gpu parallesim)
-flash-attn               2.5.9   (For accelerated training)
-POT                      0.9.5   (For solving Optimal Transport)
-pytorch                  2.3.1   (For training with GPU)   
-trl                      0.16.1  (For SFT)
+transformers       4.48.2  (For training with GPU)
+datasets           3.6.0   (For preprocessing data)
+lm_eval            0.4.2   (For evaluation)
+accelerate         1.3.0   (For multi-Gpu parallesim)
+flash-attn         2.5.9   (For accelerated training)
+POT                0.9.5   (For solving Optimal Transport)
+pytorch            2.3.1   (For training with GPU)   
+trl                0.16.1  (For SFT)
 ```
 
 # Description
