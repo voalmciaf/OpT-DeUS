@@ -18,6 +18,7 @@ trl                      0.16.1  (For SFT)
 - `Data.py` provides the sampling and preprocessing process for our Continual Pre-training data.
 - `Eval.sh` provides the shell script for evaluating the trained models.
 - `Model` directory contains the implementation of depth up-scaling baselines and our proposed Methods.
+- `Evaluation_Results` directory contains the evaluation results for our trained models.
 
 
 # Note
