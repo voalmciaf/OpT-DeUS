@@ -16,7 +16,7 @@
 
 MODEL_BASE_DIR="/Path/To/Model"
 OUTPUT_BASE_DIR="/Path/To/Output"
-models=( "SOLAR" "Avg-DeUS" "OpT-DeUS" "SOLAR" "Llama-Pro" "LESA" "Base")
+models=( "SOLAR" "Average" "OT-DUS" "SOLAR" "Llama-Pro" "LESA" "Base")
 checkpoints=(
   "checkpoint-20%"
   "checkpoint-40%"
