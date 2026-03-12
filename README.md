@@ -1,5 +1,5 @@
-# OpT-DeUS (Progressive Depth Up-scaling via Optimal Transport)
-This is the source code for "Progressive Depth Up-scaling via Optimal Transport"
+# OT-DUS: Optimal Transport Depth Up-Scaling
+This is the source code for "OT-DUS: Optimal Transport Depth Up-Scaling"
 
 ![image](Figure/Method.png)
 # Core packages and version
