@@ -1,5 +1,5 @@
-# OT-DUS: Optimal Transport Depth Up-Scaling
-This is the source code for "OT-DUS: Optimal Transport Depth Up-Scaling"
+# Optimal Transport Depth Up-Scaling
+This is the source code for "Optimal Transport Depth Up-Scaling"
 
 ![image](Figure/Method.png)
 # Core packages and version
